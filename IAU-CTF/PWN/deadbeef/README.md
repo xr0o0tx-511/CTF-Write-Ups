@@ -8,4 +8,10 @@ Try fuzz the program
 the offset is 24 byte
 
 ## step-2
-Find
+Find "cat ./flag" address
+
+![Test Image 1](deadbeef-2.png)
+
+## exploit
+
+![Test Image 1](r)
