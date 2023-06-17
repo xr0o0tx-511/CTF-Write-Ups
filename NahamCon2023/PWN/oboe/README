@@ -1,0 +1,1 @@
+The solution: stack overflow and use puts to leak libc base and use ret2libc to achieve Shell
