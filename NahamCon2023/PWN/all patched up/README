@@ -1,0 +1,1 @@
+the solution is: we don't have a lot of gadgets example pop rdi to leak libc base so i used ret2csu attack to leak libc base and after leak i used pop rdi from libc to pass /bin/sh to rdi and call system()
